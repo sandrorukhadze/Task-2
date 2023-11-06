@@ -1,0 +1,44 @@
+body {
+    background-color: antiquewhite;
+    list-style: none;
+}
+
+.home {
+    color: #F50808;
+}
+
+.text {
+    color: #20FF0D;
+}
+
+.about {
+    color: F50808;
+}
+
+.h1 {
+    color: #D41EF2;
+}
+
+.text {
+    color: #D41EF2;
+}
+
+.CONTACT {
+    color: #F50808;
+}
+
+.h2 {
+    color: white;
+}
+
+.container {
+    color: pink;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #D41EF2;
+    width: 350px;
+    height: 150px;
+    padding: 10px;
+    color: black;
+    text-decoration: none;
+}
